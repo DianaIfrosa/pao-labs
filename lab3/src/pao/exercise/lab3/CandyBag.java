@@ -1,7 +1,5 @@
 package pao.exercise.lab3;
 
-import java.lang.reflect.Array;
-
 public class CandyBag {
     protected CandyBox[] boxes;
 
